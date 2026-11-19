@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "ctcccloud",
+  "binary": "ctcccloud-cms.exe",
+  "capability": "deploy",
+  "category": "ssl",
+  "display_name_key": "plugin.ctcccloud-cms.name",
+  "icon": "ctcccloud.svg",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "ctcccloud-cms",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
